@@ -2,17 +2,17 @@
 
 # 設定環境變數
 export NB_API_URL="https://localhost"
-export NB_API_TOKEN="969891b92105f85bcc05d62c48e9594218006c27"
+export NB_API_TOKEN="9698l7dj8fw0fgob9e92df8d8v8f8gedc00vnt00f0rwwsfg35r"
 
 export PVE_API_HOST="192.168.2.180"
 export PVE_API_USER="root@pam"
 export PVE_API_TOKEN="netbox"
-export PVE_API_SECRET="bef817b0-bde4-4370-acbd-141910ef7e74"
+export PVE_API_SECRET="bef817b0-bde4-4370-acbd-1i34n1mdmwk"
 export PVE_API_VERIFY_SSL="false"
 export NB_CLUSTER_ID="2"
 
-export TELEGRAM_BOT_TOKEN="7725700765:AAFBEEx_9Dl9tl-P5Euhy6DNefK2NpnwNOo"
-export TELEGRAM_CHAT_ID="-1002581073501"
+export TELEGRAM_BOT_TOKEN="7725700765:AAFBEEx_9Dl9tl-fdkldklKDJHLkndwjsKLdksOo"
+export TELEGRAM_CHAT_ID="-183952023501"
 
 # 設定路徑
 SCRIPT_DIR="/opt/py-api"
